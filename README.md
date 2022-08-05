@@ -1,7 +1,7 @@
 # MicrosoftGraphAPI
 A Class to Authenticate and Make Endpoint calls to the Microsoft Graph API
 
-This class will help you to authenticate and make requests to the graph API. As per the class notes you will require to do the following in Azure:
+This class will help you to authenticate and make requests to the graph API. As per the class notes you will be required to do the following in Azure:
 
 Step 1. In Azure Portal - under Active Directory - create an app with required permissions
 Step 2. Retain client_secret, client_id, Tenant ID store securely 
